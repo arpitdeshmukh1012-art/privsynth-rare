@@ -1,5 +1,7 @@
 # PrivSynth-Rare: Differentially Private Synthetic Medical Data
 
+**Live demo:** https://privsynth-rare-arpit.streamlit.app
+
 A conditional VAE trained with DP-SGD (Opacus) generates synthetic patient records for a **rare disease class**. Each run is scored on three things:
 
 - **Fidelity:** KS statistic and correlation difference between real and synthetic data.
