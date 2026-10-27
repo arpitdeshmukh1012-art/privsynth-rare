@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+opacus
+streamlit
+scikit-learn
+scipy
+pandas
+numpy
+matplotlib
